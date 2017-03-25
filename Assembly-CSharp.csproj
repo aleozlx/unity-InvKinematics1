@@ -50,7 +50,9 @@
      <Compile Include="Assets\Scene1\InverseKinematics.cs" />
      <Compile Include="Assets\Scene1\ShakyPlatform.cs" />
      <Compile Include="Assets\Scene2\ArmMetadata.cs" />
+     <Compile Include="Assets\Scene2\DraggingTestObj.cs" />
      <Compile Include="Assets\Scene2\JointInvKinematics.cs" />
+     <Compile Include="Assets\Scene2\RobotArmAudio.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
