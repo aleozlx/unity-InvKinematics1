@@ -46,7 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Arkham Interactive\Industrial\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Scene1\InverseKinematics.cs" />
      <Compile Include="Assets\Scene1\ShakyPlatform.cs" />
      <Compile Include="Assets\Scene2\ArmMetadata.cs" />
